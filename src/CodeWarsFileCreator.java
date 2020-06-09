@@ -35,7 +35,6 @@ public class CodeWarsFileCreator {
         System.out.println("File created!");
 
     }
-
     public static String loop(List<String> multiLine){
         String temp = "";
         for(int i = 0; i < multiLine.size(); i++){
